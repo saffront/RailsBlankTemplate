@@ -1,24 +1,18 @@
-# README
+Description
+This is my template that I use for Rails 6 projects. Saves me about 30-40 minutes of setup time when starting a new project.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Requirements
+This template currently works with:
 
-Things you may want to cover:
+Rails 6.1.x
+Bundler 2.x
+PostgreSQL
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+has the following already setup and ready to use:
+bootstrap 5
+jquery
+devise
+rails admin
+cancancan
+popper.js
+postgresql
